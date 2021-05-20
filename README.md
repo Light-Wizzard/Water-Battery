@@ -11,7 +11,7 @@ The process of Electrolysis is a well-known phenomenon, so I will try to explain
 ## Efficiency 
 It takes energy to produce the Oxygen &amp; Hydrogen, so a Battery is required to store that Energy, I have decided on Litiumtaniate or LTO, it is safer than other types of batteries, and it takes energy to convert that Oxygen &amp; Hydrogen into Electricity, so it all comes down to Efficiency, can we make a Full Cell that is Efficient at charging a battery and keeping up with a load.
 
-![]()
+![LTO Battery](https://github.com/Light-Wizzard/Water-Battery/blob/main/images/lto-battery.png)
 
 # Material required
 I purchased my Graphite from a company called Graphite Sales, I did a lot of research into the type of Graphite I needed, and found this company to be the best supplier of Graphite Power used for Electroids in Metal Blasting Furness.
