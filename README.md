@@ -15,8 +15,8 @@ To set up a test bench, we need a Flowmeter that has a range starting from 0, th
 ![Flowmeter](https://github.com/Light-Wizzard/Water-Battery/blob/main/images/flowmeter.png)
 
 We need a Flashback Arrestor rated for Oxygen &amp; Hydrogen
-![]()
+![Flashback Arrestor](https://github.com/Light-Wizzard/Water-Battery/blob/main/images/flashback-arrstor.png)
 
 We need a Presurre Relief Valve rated for Oxygen &amp; Hydrogen
-![]()
+![Presurre Relief Valve](https://github.com/Light-Wizzard/Water-Battery/blob/main/images/pressure-relief-valve.png)
 
