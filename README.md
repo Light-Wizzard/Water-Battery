@@ -10,9 +10,13 @@ I purchased my Graphite from a company called Graphite Sales, I did a lot of res
 
 # Equipment
 
-To set up a test bench, we need a Flowmeter that has a range starting from 0, the one I am looking at goes up to 3 Liters Per Minute, it is designed for Oxygen & Hydrogen
+To set up a test bench, we need a Flowmeter that has a range starting from 0, the one I am looking at goes up to 3 Liters Per Minute, it is designed for Oxygen &amp; Hydrogen
 
 ![Flowmeter](https://github.com/Light-Wizzard/Water-Battery/blob/main/images/flowmeter.png)
 
+We need a Flashback Arrestor rated for Oxygen &amp; Hydrogen
+![]()
 
+We need a Presurre Relief Valve rated for Oxygen &amp; Hydrogen
+![]()
 
