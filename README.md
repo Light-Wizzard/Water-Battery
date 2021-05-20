@@ -5,6 +5,14 @@ You can find more information about this project in the [Wiki](https://github.co
 
 This project will detail how to make a Fuel Cell using Water and Electrolysis using Electroids made with various materials, it will use a Carbon Fiber mat with infused Graphite, and other powered conductors. 
 
+# How it works 
+The process of Electrolysis is a well-known phenomenon, so I will try to explain it in terms most people will understand when you run a current through water, it will break down the water into its components, which are Oxygen &amp; Hydrogen, this is what I will call our First-Stage, and it has Second-Stage that converts the Oxygen &amp; Hydrogen into Electricity, this is also a well-known phenomenon and will talk more in detail in the Wiki about this, but this is the basic principles for how it works.
+
+## Efficiency 
+It takes energy to produce the Oxygen &amp; Hydrogen, so a Battery is required to store that Energy, I have decided on Litiumtaniate or LTO, it is safer than other types of batteries, and it takes energy to convert that Oxygen &amp; Hydrogen into Electricity, so it all comes down to Efficiency, can we make a Full Cell that is Efficient at charging a battery and keeping up with a load.
+
+![]()
+
 # Material required
 I purchased my Graphite from a company called Graphite Sales, I did a lot of research into the type of Graphite I needed, and found this company to be the best supplier of Graphite Power used for Electroids in Metal Blasting Furness.
 
@@ -32,6 +40,7 @@ We need a Pressure Relief Valve rated for Oxygen &amp; Hydrogen, this is to prev
 You will want to make a bench, you can make it out of wood, plastic, aluminum, or about any other material you have available, but the best is to use extruded aluminum, and use Polycarbonate for all surfaces, make use it is grounded, and you have a Static wrist strap attached to it.
 
 You want to fully enclose all sides and top, so when you are testing it, should it explode, you have a safety shield in place, and make sure if have a good vent tube, it should be at least 2 inches in diameter to allow it to safely vent in the case of an explosion.
+
 
 
 
