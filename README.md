@@ -24,3 +24,7 @@ We need a Presurre Relief Valve rated for Oxygen &amp; Hydrogen
 
 ![Presurre Relief Valve](https://github.com/Light-Wizzard/Water-Battery/blob/main/images/pressure-relief-valve.png)
 
+# Test Bench
+You will want to make a bench, you can make it out of wood, plastic, aluminum, or about any other materal you have available, but the best is to use extruded alumium, and use Polycarbonate for all surfaces, make use it is grounded, and you have a Static wrist strap attached to it.
+
+![Polycarbonate]()
